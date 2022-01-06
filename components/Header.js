@@ -12,7 +12,7 @@ import {
 
 function Header() {
   return (
-    <header className="flex flex-col sm:flex-row m-2  justify-between items-center h-auto">
+    <header className="flex flex-col sm:flex-row sm:pt-1 justify-between items-center h-auto">
       {/* left section "icons" */}
       <div className="flex flex-grow justify-evenly max-w-2xl">
         <HeaderItem title="HOME" Icon={HomeIcon} />
