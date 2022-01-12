@@ -30,6 +30,7 @@ function Header() {
           src="https://www.hulu.com/static/hitch/s3/attachments/cktuo6pxqmxfp1v7c1norzsop-hulu-padding.png"
           height={300}
           width={300}
+          alt="logo"
         />
       </div>
 
